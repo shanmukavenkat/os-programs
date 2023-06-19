@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Apr 24 14:43:23 2023
 
-@author: kgnan
-"""
 totalmem=int(input("enter total ammount of memory"))
 temp=totalmem
 choice="Y"
